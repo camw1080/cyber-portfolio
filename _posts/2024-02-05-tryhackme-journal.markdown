@@ -7,7 +7,7 @@ alt: image-alt
 
 # Add the link to your journal below
 project-url: https://docs.google.com/document/d/1yY5E7HBAOjHiXrH2k6iJnCpqC1ep4P7LPZ-FL_SGVf0/edit?usp=sharing
-https://tryhackme.com/room/linuxfundamentalspart2?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
+project-url: https://tryhackme.com/room/linuxfundamentalspart2?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
 
 # Once you've completed your project, update the 'description' below to this one: Completed 17 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
 description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
