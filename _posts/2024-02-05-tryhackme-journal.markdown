@@ -5,9 +5,9 @@ title: TryHackMe Journal
 img: tryhackme.png
 alt: image-alt
 
----
 
-# Add the links to your journal below
+
+# Add the link to your journal below
 project-url: https://docs.google.com/document/d/1yY5E7HBAOjHiXrH2k6iJnCpqC1ep4P7LPZ-FL_SGVf0/edit?usp=sharing
 
 project-url: https://tryhackme.com/room/linuxfundamentalspart2?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
