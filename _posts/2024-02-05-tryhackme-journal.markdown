@@ -4,21 +4,14 @@ modal-id: 6
 title: TryHackMe Journal
 img: tryhackme.png
 alt: image-alt
+project-urls:
+  - https://docs.google.com/document/d/1yY5E7HBAOjHiXrH2k6iJnCpqC1ep4P7LPZ-FL_SGVf0/edit?usp=sharing
+  - https://tryhackme.com/room/linuxfundamentalspart2?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
+  - https://tryhackme.com/room/linuxfundamentalspart3?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
+  - https://tryhackme.com/room/windowsfundamentals1xbx?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
+  - https://tryhackme.com/room/windowsfundamentals2x0x?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
+  - https://tryhackme.com/room/introtologanalysis?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
 
-
-
-# Add the link to your journal below
-project-url: https://docs.google.com/document/d/1yY5E7HBAOjHiXrH2k6iJnCpqC1ep4P7LPZ-FL_SGVf0/edit?usp=sharing
-
-project-url: https://tryhackme.com/room/linuxfundamentalspart2?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
-
-project-url: https://tryhackme.com/room/linuxfundamentalspart3?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
-
-project-url: https://tryhackme.com/room/windowsfundamentals1xbx?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
-
-project-url: https://tryhackme.com/room/windowsfundamentals2x0x?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
-
-project-url: https://tryhackme.com/room/introtologanalysis?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=694927ca10711cd35364efc3
 
 
 
